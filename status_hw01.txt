@@ -1,0 +1,36 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Nicolas Karayakaylar
+
+2. Which VPS & domain providers did you choose?
+Vultr & Joker
+
+3. What domain name did you register?
+freudiancreations.website
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/nicolassims/CS4550
+
+5. Which parts of this assignment did you have trouble with, if any?
+Well, I asked quite a few questions on Piazza that list what problems
+I had, but, if I may restate them here, I found the notes left in the
+Professor's GitHub to be a tiny bit vaguer than was necessary. Twice,
+due to the aforementioned vagueness, I found I had done something
+wrong that took a while to fix. As an example, I had to restart the
+VPS, and had to fix DNS issues several times--which took a while, of
+course. Although I could do testing through the "hosts" file, I still
+couldn't be 100% sure that the project was complete while I was still 
+waiting on that.
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
