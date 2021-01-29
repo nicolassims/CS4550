@@ -30,6 +30,9 @@ Please fill in answers to the questions below:
     the last assignment, I didn't consider it imperative. 
     Nevertheless, I'll remedy those errors on our next assignment.
 
+    EDIT: I've changed the HW02 files to remedy those prior issues. 
+    So my answer is now yes.
+
 9. Which parts of this assignment did you have trouble with, if any?
     All those tutorials took 4.57--I timed it--4.57 times the time of 
     the actual assignment. After finishing the tutorials, I had barely
