@@ -1,0 +1,64 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+}
+
+#letter1 {
+    color: red;
+}
+
+#letter2 {
+    color: orange;
+}
+
+#letter3 {
+    color: yellow;
+}
+
+#letter4 {
+    color: green
+}
+
+#letter5 {
+    color: blue;
+}
+
+#letter6 {
+    color: indigo
+}
+
+#letter7 {
+    color: violet;
+}
+
+#letter8 {
+    color: indigo;
+}
+
+#letter9 {
+    color: blue
+}
+
+#letter10 {
+    color: green;
+}
+
+#letter11 {
+    color: yellow;
+}
+
+div {
+    text-align: center;
+    border: 2px solid black;
+}
+
+button {
+    width: 6em;
+}
+
+#displaytext {
+    width: 70%;
+    margin: 2% auto;
+    border: inherit;
+}
