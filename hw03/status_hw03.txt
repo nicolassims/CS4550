@@ -1,0 +1,24 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+    Nicolas Karayakaylar
+
+2. What hostname did you deploy to?
+    hw03.freudiancreations.website
+
+3. Which parts of this assignment did you have trouble with, if any?
+    None. Though I am still a bit concerned that my functions might not actually be pure.
+
+4. What external libraries did you use? For what?
+    None, for nothing.
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
